@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "79e9419d402f0dfe18836f00fcf4052855419031",
+          "version": null
+        }
+      },
+      {
+        "package": "Log",
+        "repositoryURL": "https://github.com/YuchanSong/Swift-Custom-Log.git",
+        "state": {
+          "branch": "main",
+          "revision": "b3d9b40f3160cd879b13f7552e669e6cbbe0bf34",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
